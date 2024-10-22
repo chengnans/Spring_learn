@@ -1,4 +1,4 @@
-14:56:04.693 DEBUG org.springframework.context.support.AbstractApplicationContext 654 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@602e0143
-14:56:04.786 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
-14:56:04.802 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
-14:56:04.831 INFO  TestUser 26 testUserObject - ###执行调用成功了！
+22:06:48.263 DEBUG org.springframework.context.support.AbstractApplicationContext 654 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58326051
+22:06:48.361 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+22:06:48.380 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+22:06:48.412 INFO  TestUser 26 testUserObject - ###执行调用成功了！
